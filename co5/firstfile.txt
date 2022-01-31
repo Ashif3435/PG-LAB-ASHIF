@@ -1,3 +1,0 @@
-This is my first file in python.
-want to work with file
-This is my third line
